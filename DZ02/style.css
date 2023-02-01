@@ -1,0 +1,47 @@
+html{
+    background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1614368054_61-p-besshovnie-foni-svetlie-63.jpg");
+}
+
+h1 {
+    color: rgb(78, 55, 55);
+}
+ 
+h2 {
+    font-family: 'Likely Kitty - Personal Use', sans-serif;
+    color: rgb(102, 102, 46);
+}
+
+a {
+    color: rgb(67, 29, 102);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(43, 116, 226);
+    font-size: 20px;
+}
+.big_text {
+    font-size: 24px;
+}
+ul {
+    list-style: square inside;
+}
+
+@font-face {
+	font-family: 'Likely Kitty - Personal Use';
+	src: url('fonts/likely_kitty_-_personal_use.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/likely_kitty_-_personal_use.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/likely_kitty_-_personal_use.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/likely_kitty_-_personal_use.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/likely_kitty_-_personal_use.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/likely_kitty_-_personal_use.svg#likely_kitty_-_personal_use') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+img {
+    margin-left: 10%;
+    border: 2px solid rgb(224, 187, 19);  
+    
+}
+#first_img {
+    margin-top: 10 px;
+}
+
