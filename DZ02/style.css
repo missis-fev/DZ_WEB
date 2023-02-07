@@ -38,10 +38,10 @@ ul {
 
 img {
     margin-left: 10%;
-    border: 2px solid rgb(224, 187, 19);  
+    border: 2px solid rgb(224, 187, 19); 
+    width: 500px; 
     
 }
 #first_img {
-    margin-top: 10 px;
+    margin-top: 10px;
 }
-
